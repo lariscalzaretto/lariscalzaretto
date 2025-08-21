@@ -2,7 +2,7 @@
 <p align="center">Designer → Front‑End • UI/UX • Web Aesthetics & Performance</p>
 
 <p align="center">
-  <img src="[https://i.imgur.com/SEU-BANNER-AQUI.gif" alt="Banner Anime](https://i.pinimg.com/736x/27/8c/a3/278ca376e08f3d45dacee4d775ab7a18.jpg)" width="600">
+  <img src="./banner.jpg" alt="Banner Anime" width="600">
 </p>
 
 
