@@ -57,7 +57,9 @@ Sou uma designer que está migrando para **Front‑End** com foco em **interface
 | **Landing estética** | HTML • CSS • JS | Em breve |
 
 
-> Mais projetos nos repositórios fixados abaixo.
+> Mais projetos nos repositórios fixados abaixo ou pelo link do portofólio:
+| **Portifólio** |  <a href="https://lariscalzaretto.github.io/lariscalzaretto/">Live</a> |
+
 
 
 ---
