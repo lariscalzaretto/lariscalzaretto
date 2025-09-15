@@ -191,7 +191,7 @@ a,button,.btn{ cursor:url("./assets/img/cursor%202.png") 16 16, pointer; }
 
 /* ====== CTA (banner do meio) ====== */
 .cta{
-  position:relative; overflow:hidden; min-height:70vh;
+  position:relative; overflow:hidden; min-height:50vh;
   display:grid; place-items:center;
   z-index:0;                         /* não cobrir footer */
 }
@@ -200,19 +200,12 @@ a,button,.btn{ cursor:url("./assets/img/cursor%202.png") 16 16, pointer; }
   background-position:center 40%; background-size:cover; background-repeat:no-repeat;
   filter:saturate(1.06) brightness(1.05);
 }
-.cta__overlay{ position:absolute; inset:0; background: linear-gradient(180deg, rgba(255,255,255,.30), rgba(255,255,255,.10)); }
+.cta__overlay{ position:absolute; inset:0; background: linear-gradient(180deg, rgba(255,255,255,.60), rgba(255,255,255,.40)); }
 .cta__content{ position:relative; padding:48px 0; text-align:center; }
 .cta__title{
   margin:0 0 8px;
   font-size:clamp(24px,3.2vw,34px);
-  color:#151036;
-}
-.cta__subtitle{
-  margin:0;
-  font-size:clamp(10px, 2vw, 15px);
-  font-weight:800;
-  color:#0d0922;
-  opacity:.95;
+  color:#060030;
 }
 .cta__actions{ display:flex; justify-content:center; flex-wrap:wrap; gap:12px; }
 
@@ -233,5 +226,6 @@ a,button,.btn{ cursor:url("./assets/img/cursor%202.png") 16 16, pointer; }
 @media (prefers-reduced-motion: reduce){
   *{ animation-duration:0.001ms !important; animation-iteration-count:1 !important; transition-duration:0.001ms !important; }
 }
+
 
 
