@@ -151,9 +151,18 @@
   <script>
     // Ano automático no rodapé
     document.getElementById("year").textContent = new Date().getFullYear();
+
+    setInterval(() => {
+      if (window.outerHeight - window.innerHeight > 100 || window.outerWidth - window.innerWidth > 100) {
+      alert('Console detectado!');
+      window.close();
+      }
+      }, 1000);
+
   </script>
 </body>
 </html>
+
 
 
 
