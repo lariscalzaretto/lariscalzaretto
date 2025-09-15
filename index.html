@@ -10,22 +10,21 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
 </head>
 <body>
-  <!-- HERO (banner-2) -->
+  <!-- HERO -->
   <header id="topo" class="hero" aria-label="Apresentação">
     <div class="hero__bg" style="background-image:url('./assets/img/banner-3.jpg');"></div>
     <div class="hero__overlay"></div>
     <div class="container hero__content">
-      <h1 class="hero__title">Larissa Guilhermina</h1>
-      <p class="hero__subtitle">Designer → Front-End</p>
-
-      <!-- Links dos portfólios pedidos -->
-      <nav class="hero__links" aria-label="Portfólios">
-        <a class="chip" href="https://larissascalzaretto.myportfolio.com/hype-sync-identidade-de-marca" target="_blank" rel="noreferrer noopener">Hype Sync</a>
-        <a class="chip" href="https://larissascalzaretto.myportfolio.com/kaia-studio-identidade-visual-direcao-de-marca" target="_blank" rel="noreferrer noopener">KAIA Studio</a>
-        <a class="chip" href="https://larissascalzaretto.myportfolio.com/mokko-cafe-identidade-visual" target="_blank" rel="noreferrer noopener">Mokko Café</a>
-        <a class="chip" href="https://larissascalzaretto.myportfolio.com/projeto-ski-moda-ia" target="_blank" rel="noreferrer noopener">Projeto SKI — Moda IA</a>
-        
-      </nav>
+      <div class="hero__group">
+        <h1 class="hero__title">Larissa Guilhermina</h1>
+        <p class="hero__subtitle">Designer → Front-End</p>
+        <nav class="hero__links" aria-label="Portfólios">
+          <a class="chip" href="https://larissascalzaretto.myportfolio.com/hype-sync-identidade-de-marca" target="_blank" rel="noreferrer noopener">Hype Sync</a>
+          <a class="chip" href="https://larissascalzaretto.myportfolio.com/kaia-studio-identidade-visual-direcao-de-marca" target="_blank" rel="noreferrer noopener">KAIA Studio</a>
+          <a class="chip" href="https://larissascalzaretto.myportfolio.com/mokko-cafe-identidade-visual" target="_blank" rel="noreferrer noopener">Mokko Café</a>
+          <a class="chip" href="https://larissascalzaretto.myportfolio.com/projeto-ski-moda-ia" target="_blank" rel="noreferrer noopener">Projeto SKI — Moda IA</a>
+        </nav>
+      </div>
     </div>
   </header>
 
@@ -35,7 +34,6 @@
       <div class="container">
         <h2 class="section__title">Projetos em destaque</h2>
 
-        <!-- grade 2 colunas (desktop) / 1 coluna (mobile) -->
         <div class="projects">
           <!-- Card 1 -->
           <article class="card">
@@ -120,7 +118,7 @@
       </div>
     </section>
 
-    <!-- CONTATO (banner-2) -->
+    <!-- CONTATO -->
     <section id="contato" class="cta" aria-label="Contato">
       <div class="cta__bg" style="background-image:url('./assets/img/banner-2.jpg');"></div>
       <div class="cta__overlay"></div>
@@ -137,36 +135,25 @@
     </section>
   </main>
 
- <div class="footer__marquee">
-  <div class="marquee__track">
-    <img src="./assets/img/banner-hashiras.jpg" class="marquee__img" alt="">
-    <img src="./assets/img/banner-hashiras.jpg" class="marquee__img" alt="">
-    <img src="./assets/img/banner-hashiras.jpg" class="marquee__img" alt="">
-    <img src="./assets/img/banner-hashiras.jpg" class="marquee__img" alt="">
+  <div class="footer__marquee">
+    <div class="marquee__track">
+      <img src="./assets/img/banner-hashiras.jpg" class="marquee__img" alt="">
+      <img src="./assets/img/banner-hashiras.jpg" class="marquee__img" alt="">
+      <img src="./assets/img/banner-hashiras.jpg" class="marquee__img" alt="">
+      <img src="./assets/img/banner-hashiras.jpg" class="marquee__img" alt="">
+    </div>
   </div>
-</div>
 
-
-  <!-- Texto final -->
   <div class="footer__content">
     <small>© <span id="year"></span> — Made by Lari Corrêa</small>
   </div>
-</footer>
 
-<script>
-  // Ano automático no rodapé
-  document.getElementById("year").textContent = new Date().getFullYear();
-
-  // Código para detectar console aberto
-        setInterval(() => {
-            if (window.outerHeight - window.innerHeight > 100 || window.outerWidth - window.innerWidth > 100) {
-                alert('Console detectado!');
-                window.close();
-            }
-        }, 1000);
-
-</script>
-
+  <script>
+    // Ano automático no rodapé
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>
+
+
 
