@@ -53,12 +53,12 @@ Sou uma designer que está migrando para **Front‑End** com foco em **interface
 | Projeto | Stack | Demo |
 |---|---|---|
 | **Pokedex JS** | HTML • CSS • JS | <a href="https://lariscalzaretto.github.io/js-developer-pokedex/">Live</a> |
-| **MokkoCafé** | HTML • CSS | <a href="https://lariscalzaretto.github.io/mokkocafe-html/">Live</a> |
-| **Landing estética** | HTML • CSS • JS | Em breve |
+| **MokkoCafé** | Adobe Creative Cloud • Branding | <a href="https://larissascalzaretto.myportfolio.com/mokko-cafe-identidade-visual">Live</a> |
+| **MokkoCafé** | HTML • CSS | <a href="https://lariscalzaretto.github.io/mokkocafe-html/">Cardápio</a> |
+| **Kaia Studio** | Adobe Creative Cloud • Branding | <a href="https://larissascalzaretto.myportfolio.com/kaia-studio-identidade-visual-direcao-de-marca">View</a> | 
 
 
-> Mais projetos nos repositórios fixados abaixo ou pelo link do portofólio:
-| **Portifólio** |  <a href="https://lariscalzaretto.github.io/lariscalzaretto/">Live</a> |
+> Mais projetos nos repositórios fixados abaixo ou pelo link do portofólio: |  <a href="https://lariscalzaretto.github.io/lariscalzaretto/">Portifólio</a> |
 
 
 
