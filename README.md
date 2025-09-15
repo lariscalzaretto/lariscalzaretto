@@ -75,4 +75,4 @@ Sou uma designer que está migrando para **Front‑End** com foco em **interface
 
 
 ### Contato
-Abra uma *issue* aqui no perfil ou envie um email. 👋
+Abra uma *issue* aqui no perfil ou envie um email. 
