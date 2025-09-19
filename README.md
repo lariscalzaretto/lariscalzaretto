@@ -17,6 +17,11 @@ Crio interfaces **bonitas, responsivas e acessíveis**, unindo estética com ló
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndpZ24ycnBveTVzcHc0NWJxNWhnaHU1cXo4em50czh6djZ1Y3prZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jIqh3ym2s7GU/giphy.gif" width="400" alt="Ghibli clouds gif">
 </p>
 
+--- 
+### Minhas estatísticas 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lariscalzaretto&show_icons=true&theme=tokyonight&hide_border=true) 
+---
+
 ---
 
 ## 🗡️ Level 2: Skills & Stack
