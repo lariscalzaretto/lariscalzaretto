@@ -63,6 +63,13 @@ Sou uma designer que está migrando para **Front‑End** com foco em **interface
 
 
 ---
+### Desafios em JavaScript
+
+| Projeto | Stack | Demo |
+|---|---|---|
+| **Classificador Nivel de Heroi** | JS | <a href="https://github.com/lariscalzaretto/classificador-nivel-de-heroi-DIO-JAVA.git">Repositório</a> |
+
+---
 
 
 ### Como trabalho
