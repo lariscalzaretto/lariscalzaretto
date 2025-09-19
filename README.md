@@ -75,6 +75,8 @@ Sou uma designer que está migrando para **Front‑End** com foco em **interface
 | Projeto | Stack | Demo | About |
 |---|---|---|---|
 | **Classificador Nivel de Heroi** | JS | <a href="https://github.com/lariscalzaretto/classificador-nivel-de-heroi-DIO-JAVA.git">Repositório</a> | Script simples em JavaScript que classifica um herói |
+| **Calculadora de Partidas Rankeadas** | JS | <a href="https://github.com/lariscalzaretto/desafio-dio-calculadora-rankeadas.git">Repositório</a> | Função que recebe como parâmetros a quantidade de vitórias e derrotas de um jogador. |
+
 
 ---
 
