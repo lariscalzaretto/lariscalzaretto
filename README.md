@@ -130,6 +130,5 @@ Crio interfaces **bonitas, responsivas e acessíveis**, unindo estética com ló
 Se quiser trocar ideias, colaborar em projetos ou apenas conversar:
 
 - ✉️ **E-mail:** [scalzarettolarissa@gmail.com](mailto:scalzarettolarissa@gmail.com)  
-- 💼 **LinkedIn:** [Larissa Guilhermina](https://www.linkedin.com/in/larissa-guilhermina)  
-- 🖥️ **Portfólio:** [lariscalzaretto.github.io](https://lariscalzaretto.github.io/lariscalzaretto)  
+- 💼 **LinkedIn:** [Larissa Guilhermina](https://www.linkedin.com/in/larissa-guilhermina)   
 - 🐙 **GitHub:** [@lariscalzaretto](https://github.com/lariscalzaretto)  
