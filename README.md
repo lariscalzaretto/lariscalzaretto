@@ -89,6 +89,7 @@ Crio interfaces **bonitas, responsivas e acessíveis**, unindo estética com ló
 | **Pokedex JS** | HTML • CSS • JS | <a href="https://lariscalzaretto.github.io/js-developer-pokedex/">Live</a> | API PokéAPI, grid responsivo, modais e paginação. |
 | **MokkoCafé (Branding)** | Adobe CC | <a href="https://larissascalzaretto.myportfolio.com/mokko-cafe-identidade-visual">Live</a> | Identidade visual temática, tipografia coreana. |
 | **MokkoCafé (HTML)** | HTML • CSS | <a href="https://lariscalzaretto.github.io/mokkocafe-html/">Cardápio</a> | Cardápio responsivo em HTML e CSS. |
+| **MokkoCafé UX Study Case** | UX UI • HTML • CSS • JS | <a href="https://github.com/lariscalzaretto/mokkocafe_study_case.git">Study Case </a> | Estudo de caso e responsividade. |
 | **Kaia Studio** | Branding | <a href="https://larissascalzaretto.myportfolio.com/kaia-studio-identidade-visual-direcao-de-marca">View</a> | Direção de marca e identidades sofisticadas. |
 | **Yu-Gi-Oh! JKP** | CSS • JS | <a href="https://lariscalzaretto.github.io/js-yugioh-assets/">Jogar</a> | Mini-jogo com regras personalizadas e placar. |
 
